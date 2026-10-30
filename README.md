@@ -2,8 +2,8 @@
 
 > Automated translation review tool for [Astro Docs](https://github.com/withastro/docs) pull requests.
 
-[![CI](https://github.com/trueberryless-org/astro-docs-i18n-reviewer/actions/workflows/ci.yaml/badge.svg)](https://github.com/trueberryless-org/astro-docs-i18n-reviewer/actions/workflows/ci.yaml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/trueberryless-org/astro-docs-i18n-reviewer/blob/main/LICENSE)
+[![CI](https://github.com/trueberryless/astro-docs-i18n-reviewer/actions/workflows/ci.yaml/badge.svg)](https://github.com/trueberryless/astro-docs-i18n-reviewer/actions/workflows/ci.yaml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/trueberryless/astro-docs-i18n-reviewer/blob/main/LICENSE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/06e9e1ee-723d-4ff7-a55c-3fbae69ae8bb/deploy-status)](https://app.netlify.com/projects/astro-docs-i18n-reviewer/deploys)
 
 ## What it does
@@ -57,7 +57,7 @@ You'll need a [classic GitHub token](https://github.com/settings/tokens/new?desc
 
 ```bash
 # Clone the repository
-git clone https://github.com/trueberryless-org/astro-docs-i18n-reviewer.git
+git clone https://github.com/trueberryless/astro-docs-i18n-reviewer.git
 cd astro-docs-i18n-reviewer
 
 # Install dependencies
@@ -79,7 +79,7 @@ astro-docs-i18n-reviewer/
 
 ## Adding or improving language rules
 
-Each supported locale lives in [`packages/core/rules/<locale>.ts`](https://github.com/trueberryless-org/astro-docs-i18n-reviewer/tree/main/packages/core/rules). Rules that apply to every language (brand names, etc.) are in [`packages/core/rules/common.ts`](https://github.com/trueberryless-org/astro-docs-i18n-reviewer/blob/main/packages/core/rules/common.ts).
+Each supported locale lives in [`packages/core/rules/<locale>.ts`](https://github.com/trueberryless/astro-docs-i18n-reviewer/tree/main/packages/core/rules). Rules that apply to every language (brand names, etc.) are in [`packages/core/rules/common.ts`](https://github.com/trueberryless/astro-docs-i18n-reviewer/blob/main/packages/core/rules/common.ts).
 
 A rule looks like:
 
@@ -91,14 +91,14 @@ A rule looks like:
 }
 ```
 
-See [CONTRIBUTING.md](https://github.com/trueberryless-org/astro-docs-i18n-reviewer/blob/main/CONTRIBUTING.md) for the full guide.
+See [CONTRIBUTING.md](https://github.com/trueberryless/astro-docs-i18n-reviewer/blob/main/CONTRIBUTING.md) for the full guide.
 
 ## Contributing
 
-We welcome contributions! Please read [CONTRIBUTING.md](https://github.com/trueberryless-org/astro-docs-i18n-reviewer/blob/main/CONTRIBUTING.md) first.
+We welcome contributions! Please read [CONTRIBUTING.md](https://github.com/trueberryless/astro-docs-i18n-reviewer/blob/main/CONTRIBUTING.md) first.
 
 ## License
 
 Licensed under the MIT License, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/astro-docs-i18n-reviewer/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/astro-docs-i18n-reviewer/blob/main/LICENSE) for more information.

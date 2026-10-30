@@ -18,7 +18,7 @@ Thank you for helping improve translation quality for the Astro community! 🎉
 **Prerequisites**: [Node.js ≥ 22.12](https://nodejs.org/) and [pnpm ≥ 11](https://pnpm.io/).
 
 ```bash
-git clone https://github.com/trueberryless-org/astro-docs-i18n-reviewer.git
+git clone https://github.com/trueberryless/astro-docs-i18n-reviewer.git
 cd astro-docs-i18n-reviewer
 
 pnpm install
@@ -150,7 +150,7 @@ Please keep PRs focused on a single concern. Large PRs are harder to review and 
 
 ## Reporting bugs
 
-Use the **[Bug report](https://github.com/trueberryless-org/astro-docs-i18n-reviewer/issues/new?template=bug_report.yaml)** issue template. Include:
+Use the **[Bug report](https://github.com/trueberryless/astro-docs-i18n-reviewer/issues/new?template=bug_report.yaml)** issue template. Include:
 
 - The PR URL you were reviewing
 - The locale selected

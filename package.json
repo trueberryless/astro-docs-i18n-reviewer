@@ -31,7 +31,7 @@
   "homepage": "https://astro-docs-i18n-reviewer.netlify.app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trueberryless-org/astro-docs-i18n-reviewer.git"
+    "url": "git+https://github.com/trueberryless/astro-docs-i18n-reviewer.git"
   },
-  "bugs": "https://github.com/trueberryless-org/astro-docs-i18n-reviewer/issues"
+  "bugs": "https://github.com/trueberryless/astro-docs-i18n-reviewer/issues"
 }
