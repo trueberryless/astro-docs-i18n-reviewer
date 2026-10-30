@@ -4,7 +4,7 @@
 
 Please **do not** open a public GitHub issue for security vulnerabilities.
 
-Instead, send an email to the maintainer or use [GitHub's private vulnerability reporting](https://github.com/trueberryless-org/astro-docs-i18n-reviewer/security/advisories/new).
+Instead, send an email to the maintainer or use [GitHub's private vulnerability reporting](https://github.com/trueberryless/astro-docs-i18n-reviewer/security/advisories/new).
 
 We aim to respond within 5 business days and will keep you informed throughout the fix process.
 
